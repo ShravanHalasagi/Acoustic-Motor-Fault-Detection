@@ -92,7 +92,6 @@ Our innovation is not the invention of acoustic fault detection itself. It is th
 | Hardware | Can require specialized equipment | Compact microphone and ESP32-S3 prototype |
 | Main objective | Equipment condition monitoring | Affordable acoustic anomaly monitoring |
 
-*Note: Existing systems vary, and some already provide acoustic monitoring and edge processing. This comparison describes common approaches, not every commercial system.*
 
 ### Core Innovation
 
