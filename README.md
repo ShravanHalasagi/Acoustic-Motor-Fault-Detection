@@ -5,7 +5,7 @@
 An AI-powered motor condition monitoring system that uses acoustic signals to identify abnormal motor operating patterns.
 
 ## Problem Statement
-Industrial motors can develop mechanical faults that lead to unexpected breakdowns, increased maintenance costs, and operational downtime.
+Industrial motor acoustic anomaly detector using edge neural models
 
 ## Proposed Solution
 The proposed system uses an INMP441 digital microphone to capture motor sound signals and an ESP32-S3 for embedded processing and edge-based AI inference.
